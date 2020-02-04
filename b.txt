@@ -1,0 +1,5 @@
+Now you can fetch from files
+Make combos from them
+Add chars
+Remove duplicates from them
+This is hell of a awesome shit
